@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -32,3 +33,6 @@ This is the sample application for the
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).</p>
+=======
+# sample_app_trial_2
+>>>>>>> 2237403a4f3c8fab82da81037056c44b73b91560
