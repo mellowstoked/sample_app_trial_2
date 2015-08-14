@@ -1,11 +1,14 @@
-<% provide(:title, "Home") %>
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= yield(:title) %> | Ruby on Rails Tutorial Sample App</title>
+    <title><%= yield(:title) %> Ruby on Rails Tutorial Sample App</title>
   </head>
   <body>
+<<<<<<< HEAD
    <div class="center jumbotron">
+=======
+<div class="center jumbotron">
+>>>>>>> filling-in-layout
   <h1>Welcome to the Sample App</h1>
 
   <h2>
@@ -14,7 +17,11 @@
     sample application.
   </h2>
 
+<<<<<<< HEAD
   <%= link_to "Sign up now!", signup_path, class: "btn btn-lg btn-primary" %>
+=======
+  <%= link_to "Sign up now!", '#', class: "btn btn-lg btn-primary" %>
+>>>>>>> filling-in-layout
 </div>
 
 <%= link_to image_tag("rails.png", alt: "Rails logo"),
